@@ -49,7 +49,7 @@ This project is a **Landmark Detection System** built using **FastAPI** for the 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/landmark-detection
+git clone https://github.com/Nizar04/Landmark-Detection.git
 cd landmark-detection
 ```
 
